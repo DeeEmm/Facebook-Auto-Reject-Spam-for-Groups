@@ -3,6 +3,7 @@ Automatically click the "Reject/Reject" button on Facebook's potential spam page
 
 
 **Installation and use:**
+
 Install Tampermonkey in your browser if you don't already have it.
 
 Create a new script in Tampermonkey.
