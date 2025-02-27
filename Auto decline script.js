@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Facebook Auto Reject Spam with Scrolling
-// @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Automatically click the "Reject" button on Facebook's Potential Spam page for groups with automatic scrolling to the bottom.
 // @author       Jackie Nguyen
 // @match        https://www.facebook.com/*
 // @grant        none
+// @modified     DeeEmm https://github.com/DeeEmm/Facebook-Auto-Reject-Spam-for-Groups
 // ==/UserScript==
 
 (function() {
